@@ -1,0 +1,17 @@
+echo "# CionWebsite1.io" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ci0nk/CionWebsite1.io.git
+git push -u origin main
+
+<html>
+
+<body>
+  <h1>Cion Kim</h1>
+  <p>Welcome to my website! This is my first website!! </p>
+  <img src="https://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif" />
+</body>
+
+</html>
